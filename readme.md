@@ -3,7 +3,7 @@
 
 > This is simple p5.js example. You can use any purpose
 
-> You can reach me from [a link] https://onuraltuntasbb.github.io/personal-website/
+> You can reach me from [a link] https://onuraltuntasb.github.io/personal-website/
 
 > html, css ,p5.js
 
